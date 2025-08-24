@@ -221,7 +221,7 @@ def main():
     
     else:
         # User is authenticated, redirect to home page
-        st.switch_page("pages/1_🏠_Home.py")
+        st.switch_page("Home")
 
 if __name__ == "__main__":
     main()
